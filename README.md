@@ -28,11 +28,11 @@ python
 
 To train the model and save it , you can run :
 ```
-python train.py
+python main.py
 ```
 Run the following command to test it in the console
 ```
-python chat.py
+python chatbot.py
 ```
 
 
